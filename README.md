@@ -32,12 +32,6 @@ In addition to front-end development, I have experience with back-end technologi
 - Conducted project testing and issue identification.
 - Interacted with clients to gather requirements and relay them to the development team.
 
-**Front End Developer (Internship)**  
-*Universal IT Institute*  
-*October 2023 - October 2023*  
-- Engaged in front-end development with Python and Django.
-- Focused on learning and applying new technologies through video tutorials.
-
 ---
 
 ### Skills
