@@ -27,7 +27,7 @@ In addition to front-end development, I have experience with back-end technologi
 
 **Application Specialist**  
 *Progeny Technologies LTD. (Onsite Internship)*  
-*November 2023 - January 2024*  
+*November 2022 - January 2023*  
 - Created and implemented reports using Crystal Reports.
 - Conducted project testing and issue identification.
 - Interacted with clients to gather requirements and relay them to the development team.
