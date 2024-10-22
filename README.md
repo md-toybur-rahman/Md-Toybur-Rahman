@@ -1,6 +1,6 @@
 # Hi there, I'm Toybur Rahman 👋
 
-## Front End Developer
+## Web Developer
 
 📍 Lakshmipur, Chittagong, Bangladesh  
 📧 toyburrahman48@gmail.com  
