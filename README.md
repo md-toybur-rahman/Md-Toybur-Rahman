@@ -4,8 +4,8 @@
 
 📍 Lakshmipur, Chittagong, Bangladesh  
 📧 toyburrahman48@gmail.com  
-📱 +8801773345189  
-- [Portfolio](https://toybur-rahman.web.app/)
+📱 +8801773345189
+🌎 [Portfolio](https://toybur-rahman.web.app/)
 
 ---
 
